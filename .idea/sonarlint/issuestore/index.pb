@@ -21,3 +21,5 @@ e
 5app/src/main/java/com/bkapps/hiltquiz/views/QuizVM.kt,6\b\6bd7cc819e33d2f8b7ba01d9ae1e77864ab84932
 k
 ;app/src/main/java/com/bkapps/hiltquiz/views/QuizActivity.kt,d\b\dbcecbe7ca6c045056a48872ed3d6d43105dda68
+o
+?app/src/main/java/com/bkapps/hiltquiz/views/QuestionsAdapter.kt,3\3\336d75f160c048fade7ef752d2096f99e1587b10
